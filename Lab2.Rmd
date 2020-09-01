@@ -1,0 +1,12 @@
+---
+title: "Lab 2"
+author: "Matt Crump"
+date: "8/26/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
